@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85fb6702-c883-4ed0-88aa-4d5f3c654bda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/puqt5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/puqt5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#20#46#0" expanded="true" />
               </folding>
@@ -69,55 +66,6 @@
               <item name="puqt5" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="puqt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (webpytest) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="puqt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (webpytest) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="b5f07198:RTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="puqt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (webpytest) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="b5f07198:RTreeStructureProvider$1" />
-              <item name="qtpy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="puqt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (webpytest) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="aeosa" type="b5f07198:RTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="puqt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (webpytest) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="backports.functools_lru_cache-1.5-py3.6.egg" type="b5f07198:RTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="puqt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (webpytest) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="cheroot-6.5.4-py3.6.egg" type="b5f07198:RTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="puqt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (webpytest) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="web.py-0.40.dev1-py3.6.egg" type="b5f07198:RTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="puqt5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (webpytest) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="web.py-0.40.dev1-py3.6.egg" type="b5f07198:RTreeStructureProvider$1" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -163,7 +111,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="81" width="1412" height="721" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25328466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -192,8 +139,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#20#46#0" expanded="true" />
           </folding>

@@ -4,4 +4,3 @@ from qtpy.QtCore import *
 from qtpy.QtWidgets import *
 
 class Page(QWidget):
-    
